@@ -6,4 +6,5 @@
     <changefreq>monthly</changefreq> <!-- تغییرات سایت: daily, weekly, monthly -->
     <priority>1.0</priority> <!-- اولویت این صفحه برای ایندکس شدن -->
   </url>
+<!--  سایر url ها  -->
 </urlset>
